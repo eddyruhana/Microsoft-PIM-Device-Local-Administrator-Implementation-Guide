@@ -25,6 +25,10 @@ The guide provides detailed, step\-by\-step instructions for configuring Just\-i
 - Identity and Access Management Professionals
 - IT Consultants and Architects
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Author
 
 **Eddy Ruhana**
